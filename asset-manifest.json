@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.994bb844.css",
-    "main.js": "/static/js/main.bb086f8d.js",
-    "static/js/787.9b46ec80.chunk.js": "/static/js/787.9b46ec80.chunk.js",
+    "main.js": "/static/js/main.be23330c.js",
     "static/media/Tejas.png": "/static/media/Tejas.676859ad2a05c151d32c.png",
     "static/media/upasana.jpg": "/static/media/upasana.532fb95b14985d0dbcf0.jpg",
     "static/media/Image1.png": "/static/media/Image1.283bef36684714792516.png",
@@ -46,11 +45,10 @@
     "static/media/Reparing.svg": "/static/media/Reparing.5ece42a2463e027be2ca108d9713fb70.svg",
     "static/media/ReparingHover.svg": "/static/media/ReparingHover.a90a7166b7f0e32a6f12111e10884f4b.svg",
     "main.994bb844.css.map": "/static/css/main.994bb844.css.map",
-    "main.bb086f8d.js.map": "/static/js/main.bb086f8d.js.map",
-    "787.9b46ec80.chunk.js.map": "/static/js/787.9b46ec80.chunk.js.map"
+    "main.be23330c.js.map": "/static/js/main.be23330c.js.map"
   },
   "entrypoints": [
     "static/css/main.994bb844.css",
-    "static/js/main.bb086f8d.js"
+    "static/js/main.be23330c.js"
   ]
 }
