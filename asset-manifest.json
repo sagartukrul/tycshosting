@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.994bb844.css",
-    "main.js": "/static/js/main.be23330c.js",
+    "main.css": "/static/css/main.40f9026d.css",
+    "main.js": "/static/js/main.1c021905.js",
     "static/media/Tejas.png": "/static/media/Tejas.676859ad2a05c151d32c.png",
     "static/media/upasana.jpg": "/static/media/upasana.532fb95b14985d0dbcf0.jpg",
     "static/media/Image1.png": "/static/media/Image1.283bef36684714792516.png",
@@ -12,6 +12,7 @@
     "static/media/FAQBg.png": "/static/media/FAQBg.ef6eb720868e9a022fc7.png",
     "static/media/about-bg1.png": "/static/media/about-bg1.06354a69c00dbcf6d1db.png",
     "static/media/TYCS3.png": "/static/media/TYCS3.dffac8614160bdfff849.png",
+    "static/media/404Error.png": "/static/media/404Error.8b49d05b93353baa049d.png",
     "static/media/Chooseus.png": "/static/media/Chooseus.ad08738084e67e298f97.png",
     "static/media/footer-bg1.png": "/static/media/footer-bg1.560b1ef23fa0153b18f7.png",
     "static/media/slider-left-dec.png": "/static/media/slider-left-dec.da0a0b96f1813784cb0b.png",
@@ -21,8 +22,10 @@
     "static/media/vijayCotton.png": "/static/media/vijayCotton.d03d22cb4f2edd691dda.png",
     "static/media/hi-point1.jpg": "/static/media/hi-point1.57527040e2f35dc27ab7.jpg",
     "static/media/UserImage.png": "/static/media/UserImage.a6143582309785dca610.png",
+    "static/media/HomeIcon.png": "/static/media/HomeIcon.dd2415a82a8607b60559.png",
     "static/media/consulting.svg": "/static/media/consulting.31ce5232bf3445ca7ad100167d764eb5.svg",
     "static/media/consultingHover.svg": "/static/media/consultingHover.0b7fc50ccd5621c108b7ae8bec54630e.svg",
+    "static/media/HomeIconHover.png": "/static/media/HomeIconHover.43e72324a2036a098b00.png",
     "static/media/Networking.svg": "/static/media/Networking.725c5994d3cfad893c1cfd1a67cc73e4.svg",
     "static/media/NetworkingHover.svg": "/static/media/NetworkingHover.5eb55fa4f479f221f99d409eb1b9b792.svg",
     "static/media/Refurbish.svg": "/static/media/Refurbish.9fa85956518d2863ed097176ad00f473.svg",
@@ -44,11 +47,11 @@
     "static/media/DataBackupHover.svg": "/static/media/DataBackupHover.def473941f8f3177c87620f371316c7f.svg",
     "static/media/Reparing.svg": "/static/media/Reparing.5ece42a2463e027be2ca108d9713fb70.svg",
     "static/media/ReparingHover.svg": "/static/media/ReparingHover.a90a7166b7f0e32a6f12111e10884f4b.svg",
-    "main.994bb844.css.map": "/static/css/main.994bb844.css.map",
-    "main.be23330c.js.map": "/static/js/main.be23330c.js.map"
+    "main.40f9026d.css.map": "/static/css/main.40f9026d.css.map",
+    "main.1c021905.js.map": "/static/js/main.1c021905.js.map"
   },
   "entrypoints": [
-    "static/css/main.994bb844.css",
-    "static/js/main.be23330c.js"
+    "static/css/main.40f9026d.css",
+    "static/js/main.1c021905.js"
   ]
 }
