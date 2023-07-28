@@ -1,28 +1,12 @@
-# # DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
-# PassengerAppRoot "/home/jmmw8whthp5f/Tycs"
-# PassengerBaseURI "/"
-# PassengerPython "/home/jmmw8whthp5f/virtualenv/Tycs/3.9/bin/python"
-# # DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
-# # DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
-# <IfModule Litespeed>
-# </IfModule>
-# # DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END
-# <IfModule mod_rewrite.c>
-#   RewriteEngine On
-#   RewriteBase /
-#   RewriteRule ^index\.html$ - [L]
-#   RewriteCond %{REQUEST_FILENAME} !-f
-#   RewriteCond %{REQUEST_FILENAME} !-d
-#   RewriteCond %{REQUEST_FILENAME} !-l
-#   RewriteRule . /index.html [L]
-# </IfModule>
-# RewriteCond %{HTTP_HOST} ^tycs\.in$ [OR]
-# RewriteCond %{HTTP_HOST} ^www\.tycs\.in$
-# RewriteRule ^apis$ "http\:\/\/django\.tycs\.in\/" [R=301,L]
+
 RewriteEngine On
-# Allow access to subdomain
 RewriteCond %{HTTP_HOST} ^django\.tycs\.in$ [NC]
 RewriteRule ^ - [L]
+
+#this redirect your https request to http
+RewriteCond %{HTTPS} on
+RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 # Redirect all requests to index.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
