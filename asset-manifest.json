@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.40f9026d.css",
-    "main.js": "/static/js/main.1c021905.js",
+    "main.css": "/static/css/main.a003678b.css",
+    "main.js": "/static/js/main.8c418891.js",
     "static/media/Tejas.png": "/static/media/Tejas.676859ad2a05c151d32c.png",
     "static/media/upasana.jpg": "/static/media/upasana.532fb95b14985d0dbcf0.jpg",
     "static/media/Image1.png": "/static/media/Image1.283bef36684714792516.png",
-    "static/media/Image2.png": "/static/media/Image2.522e58face85f6ebbd2d.png",
     "static/media/Mission.png": "/static/media/Mission.3b1f916a26f0dcb656b5.png",
     "static/media/25087-ai.png": "/static/media/25087-ai.7ada51ee28a20f3fcb74.png",
     "static/media/History.png": "/static/media/History.779323b1529107c18227.png",
     "static/media/FAQBg.png": "/static/media/FAQBg.ef6eb720868e9a022fc7.png",
     "static/media/about-bg1.png": "/static/media/about-bg1.06354a69c00dbcf6d1db.png",
+    "static/media/Image6.jpg": "/static/media/Image6.fdac67a0e76f142cb1d9.jpg",
+    "static/media/Image5.jpg": "/static/media/Image5.74a62a791ec67eea10eb.jpg",
     "static/media/TYCS3.png": "/static/media/TYCS3.dffac8614160bdfff849.png",
     "static/media/404Error.png": "/static/media/404Error.8b49d05b93353baa049d.png",
     "static/media/Chooseus.png": "/static/media/Chooseus.ad08738084e67e298f97.png",
     "static/media/footer-bg1.png": "/static/media/footer-bg1.560b1ef23fa0153b18f7.png",
+    "static/media/LoadingGIF1.gif": "/static/media/LoadingGIF1.cd091e50b91c52178daa.gif",
     "static/media/slider-left-dec.png": "/static/media/slider-left-dec.da0a0b96f1813784cb0b.png",
     "static/media/TeamBg1.png": "/static/media/TeamBg1.bb8c77fcc7be5874ee18.png",
     "static/media/IPGL.png": "/static/media/IPGL.2955e06b868ff77d7f6f.png",
+    "static/media/about-right-dec.png": "/static/media/about-right-dec.793eb0c7327a2ab3f9d8.png",
     "static/media/kiran.jpg": "/static/media/kiran.a273f8e867f7a843b039.jpg",
     "static/media/vijayCotton.png": "/static/media/vijayCotton.d03d22cb4f2edd691dda.png",
     "static/media/hi-point1.jpg": "/static/media/hi-point1.57527040e2f35dc27ab7.jpg",
@@ -34,12 +37,12 @@
     "static/media/ComputerSaleHover.svg": "/static/media/ComputerSaleHover.667660569ca98d27df3f8e2f9bcc0df9.svg",
     "static/media/DigitalMarketing.svg": "/static/media/DigitalMarketing.520aa502cf34fa0a84dc20abf316c9d2.svg",
     "static/media/DigitalMarketingHover.svg": "/static/media/DigitalMarketingHover.5c41bbdd625f87e982702d1ec18cbe0c.svg",
-    "index.html": "/index.html",
     "static/media/cctvHover.svg": "/static/media/cctvHover.88d4443b7d38c7613afb26da8cfe07c0.svg",
     "static/media/cctv.svg": "/static/media/cctv.fd6d2b10a934a2cda39c7e17ca49abae.svg",
     "static/media/Support.svg": "/static/media/Support.ff37bda8f550b72fcf823f7f0fd2a672.svg",
     "static/media/SupportHover.svg": "/static/media/SupportHover.f2e7c23479cd611d07e6a8b3b34a1726.svg",
     "static/media/Antivirus.svg": "/static/media/Antivirus.d6759a50462c7c15ad5951a25a4f5b7b.svg",
+    "index.html": "/index.html",
     "static/media/AntivirusHover.svg": "/static/media/AntivirusHover.5ecd40bf0a96190087ea84c630763322.svg",
     "static/media/website.svg": "/static/media/website.75c6ef1ee40a2db265972a13071eb966.svg",
     "static/media/websiteHover.svg": "/static/media/websiteHover.a79c6455a880c10065e2c5804d715b6a.svg",
@@ -47,11 +50,11 @@
     "static/media/DataBackupHover.svg": "/static/media/DataBackupHover.def473941f8f3177c87620f371316c7f.svg",
     "static/media/Reparing.svg": "/static/media/Reparing.5ece42a2463e027be2ca108d9713fb70.svg",
     "static/media/ReparingHover.svg": "/static/media/ReparingHover.a90a7166b7f0e32a6f12111e10884f4b.svg",
-    "main.40f9026d.css.map": "/static/css/main.40f9026d.css.map",
-    "main.1c021905.js.map": "/static/js/main.1c021905.js.map"
+    "main.a003678b.css.map": "/static/css/main.a003678b.css.map",
+    "main.8c418891.js.map": "/static/js/main.8c418891.js.map"
   },
   "entrypoints": [
-    "static/css/main.40f9026d.css",
-    "static/js/main.1c021905.js"
+    "static/css/main.a003678b.css",
+    "static/js/main.8c418891.js"
   ]
 }
