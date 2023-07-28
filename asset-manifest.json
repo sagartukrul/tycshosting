@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a003678b.css",
-    "main.js": "/static/js/main.21b5093b.js",
+    "main.js": "/static/js/main.1ed61960.js",
     "static/media/Tejas.png": "/static/media/Tejas.676859ad2a05c151d32c.png",
     "static/media/upasana.jpg": "/static/media/upasana.532fb95b14985d0dbcf0.jpg",
     "static/media/Image1.png": "/static/media/Image1.283bef36684714792516.png",
@@ -51,10 +51,10 @@
     "static/media/Reparing.svg": "/static/media/Reparing.5ece42a2463e027be2ca108d9713fb70.svg",
     "static/media/ReparingHover.svg": "/static/media/ReparingHover.a90a7166b7f0e32a6f12111e10884f4b.svg",
     "main.a003678b.css.map": "/static/css/main.a003678b.css.map",
-    "main.21b5093b.js.map": "/static/js/main.21b5093b.js.map"
+    "main.1ed61960.js.map": "/static/js/main.1ed61960.js.map"
   },
   "entrypoints": [
     "static/css/main.a003678b.css",
-    "static/js/main.21b5093b.js"
+    "static/js/main.1ed61960.js"
   ]
 }
